@@ -1,0 +1,12 @@
+c:\users\user1\documents\visual studio 2015\Projects\TmousePC\TmousePC\bin\Debug\TmousePC.exe.config
+c:\users\user1\documents\visual studio 2015\Projects\TmousePC\TmousePC\bin\Debug\TmousePC.exe
+c:\users\user1\documents\visual studio 2015\Projects\TmousePC\TmousePC\bin\Debug\TmousePC.pdb
+c:\users\user1\documents\visual studio 2015\Projects\TmousePC\TmousePC\obj\Debug\TmousePC.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2015\Projects\TmousePC\TmousePC\obj\Debug\TmousePC.exe
+c:\users\user1\documents\visual studio 2015\Projects\TmousePC\TmousePC\obj\Debug\TmousePC.pdb
+C:\Users\Rosenfeld\Documents\Visual Studio 2015\Projects\TmousePC\TmousePC\bin\Debug\TmousePC.exe.config
+C:\Users\Rosenfeld\Documents\Visual Studio 2015\Projects\TmousePC\TmousePC\obj\Debug\TmousePC.exe
+C:\Users\Rosenfeld\Documents\Visual Studio 2015\Projects\TmousePC\TmousePC\obj\Debug\TmousePC.pdb
+C:\Users\Rosenfeld\Documents\Visual Studio 2015\Projects\TmousePC\TmousePC\bin\Debug\TmousePC.exe
+C:\Users\Rosenfeld\Documents\Visual Studio 2015\Projects\TmousePC\TmousePC\bin\Debug\TmousePC.pdb
+C:\Users\Rosenfeld\Documents\Visual Studio 2015\Projects\TmousePC\TmousePC\obj\Debug\TmousePC.csprojResolveAssemblyReference.cache
